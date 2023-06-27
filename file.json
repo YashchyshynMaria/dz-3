@@ -1,0 +1,28 @@
+{
+   "student": {
+   "firstName": "Maria",
+   "lastName": "Yashchyshyn",
+   "age": 25,
+   "married": false,
+   "children": null,
+   "adress": {
+       "country": "UA",
+       "city": "Lviv",
+       "zip": "86513"
+   },
+
+   
+   "phoneNumbers": ["type", "number"],
+
+   "phoneNumbers": [
+
+   {
+       "type": "mobile",
+       "number": "0508403489"
+   }
+
+   ]
+   
+   }
+   
+} 
