@@ -1,0 +1,16 @@
+student:
+  first name: Maria
+  last name: Yashchyshyn
+  age: 25
+  married: false
+  children: null
+  adress:
+     country: UA
+     city: Lviv
+     zip: 86513
+   phone numbers: [type, number]
+
+   phone numbers:
+     - type
+     - number
+       

@@ -1,0 +1,22 @@
+     <?xml version="1.0" encoding="UTF-8"?>
+     <student>
+
+          <firs_name>Maria</first_name>
+          <last_name>Yashchyshyn</last_name>
+          <age>25</age>
+          <married>false</married>
+          <children>null</children>
+       
+        <adress>
+
+          <country>UA</country>
+          <city>Lviv</city>
+          <zip>86513</zip>
+         
+        </adress> 
+          
+          <phone numbers>
+          type"Mobile"&quoteNumber"0505403489"&quote
+          </phone numbers>
+
+     </student>
